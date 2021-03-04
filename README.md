@@ -19,8 +19,12 @@ Amante de videogames e tecnologia, adoro passar meu tempo livre pesquisando novi
 - HTML
 - CSS / SASS
 - ReactJS
+- AngularJS
 
 ### Back-end
 
 - node.js
 - SQL
+- Java/SpringBoot
+- Docker
+- nginx server
