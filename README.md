@@ -29,3 +29,4 @@ Amante de videogames e tecnologia, adoro passar meu tempo livre pesquisando novi
 - Java/SpringBoot
 - Docker
 - nginx server
+- Progress
