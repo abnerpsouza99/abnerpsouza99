@@ -10,7 +10,7 @@ Amante de videogames e tecnologia, adoro passar meu tempo livre pesquisando novi
 - E-mail :email:: abnerpsouza99@gmail.com
 - Telefone :telephone:: (51)98285-3755
 - [LinkedIn](https://www.linkedin.com/in/abnerpenadesouza/)
-- Profissão: Desenvolvedor Júnior
+- Profissão: Desenvolvedor Pleno
 
 ## Tecnologias 
 
