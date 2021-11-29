@@ -1,18 +1,18 @@
 <h1 align="center">Abner Pena de Souza</h1>
 
-## Apresentação
+## Presentation
 
-Amante de videogames e tecnologia, adoro passar meu tempo livre pesquisando novidades sobre esses dois mundos. Extrovertido, me entusiasmo quando tenho a possibilidade de me conectar e conhecer pessoas novas, buscando sempre saber suas histórias e querendo, de alguma forma, fazer parte delas. Me fascina aprender coisas novas, buscando atingir o pleno conhecimento dos assuntos, afim de facilitar meu dia-a-dia em qualquer situação.
+Lover of games and technology, I like pass my free time looking for news about this two worlds. Extrovert, enthusiasm myself when I have the possibility to connect and meet new people, searching ever know your histories and want, someway, make part of them. I love learn new things, trying to expand my knowledge about the concepts and principles of software development.
 
-## Informações
+## Info
 
-- Idade: 22 anos
-- E-mail :email:: abnerpsouza99@gmail.com
-- Telefone :telephone:: (51)98285-3755
+- Age: 22 years
+- Email :email:: abnerpsouza99@gmail.com
+- Phone :telephone:: (51)98285-3755
 - [LinkedIn](https://www.linkedin.com/in/abnerpenadesouza/)
-- Profissão: Desenvolvedor Backend Pleno
+- Job Role: Backend Developer II
 
-## Tecnologias 
+## Technologies 
 
 ### Front-end
 
