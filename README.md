@@ -10,7 +10,7 @@ Lover of games and technology, I like pass my free time looking for news about t
 - Email :email:: abnerpsouza99@gmail.com
 - Phone :telephone:: (51)98285-3755
 - [LinkedIn](https://www.linkedin.com/in/abnerpenadesouza/)
-- Job Role: Backend Developer II
+- Job Role: Backend Engineer
 
 ## Technologies 
 
