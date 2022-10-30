@@ -8,7 +8,7 @@ Lover of games and technology, I like pass my free time looking for news about t
 
 - Age: 23 years
 - Email :email:: abnerpsouza99@gmail.com
-- Phone :telephone:: (51)98285-3755
+- Phone :telephone:: +55 (51)98285-3755
 - [LinkedIn](https://www.linkedin.com/in/abnerpenadesouza/)
 - Job Role: Backend Engineer
 
@@ -27,8 +27,11 @@ Lover of games and technology, I like pass my free time looking for news about t
 - TypeScript/nestJS
 - node.js
 - SQL
+- Rest API
 - Java/SpringBoot
 - Docker/Kubernetes
 - nginx server
+- RabbitMQ
+- AWS - S3
 - Progress
 - Databases: PostgreSQL, Oracle and MongoDB.
