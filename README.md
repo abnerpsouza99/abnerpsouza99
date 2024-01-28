@@ -32,6 +32,9 @@ Lover of games and technology, I like pass my free time looking for news about t
 - Docker/Kubernetes
 - nginx server
 - RabbitMQ
+- Jenkins
 - AWS - S3
+- AWS - SES
+- Google Storage Bucket
 - Progress
 - Databases: PostgreSQL, Oracle and MongoDB.
