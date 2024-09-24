@@ -6,7 +6,7 @@ Lover of games and technology, I like pass my free time looking for news about t
 
 ## Info
 
-- Age: 24 years
+- Age: 25 years
 - Email :email:: abnerpsouza99@gmail.com
 - Phone :telephone:: +55 (51)98285-3755
 - [LinkedIn](https://www.linkedin.com/in/abnerpenadesouza/)
@@ -28,6 +28,7 @@ Lover of games and technology, I like pass my free time looking for news about t
 - node.js
 - SQL
 - Rest API
+- Websockets
 - Java/SpringBoot
 - Docker/Kubernetes
 - nginx server
@@ -37,4 +38,4 @@ Lover of games and technology, I like pass my free time looking for news about t
 - AWS - SES
 - Google Storage Bucket
 - Progress
-- Databases: PostgreSQL, Oracle and MongoDB.
+- Databases: PostgreSQL, Oracle, MongoDB and Redis (Cache).
