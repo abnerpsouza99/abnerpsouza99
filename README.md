@@ -25,12 +25,12 @@ Lover of games and technology, I like pass my free time looking for news about t
 
 ### Back-end
 
+- Kotlin and Java/SpringBoot
 - TypeScript/nestJS
 - node.js
 - SQL
 - Rest API
 - Websockets
-- Java/SpringBoot
 - Docker/Kubernetes
 - nginx server
 - RabbitMQ
